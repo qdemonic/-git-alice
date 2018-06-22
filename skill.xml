@@ -1,0 +1,5 @@
+<context>
+  <input pattern="*—колько за диллерский манган* *">
+    <output value="12 тыс€ч по рон либо по 4  с каждого"/>
+  </input>
+</context>
